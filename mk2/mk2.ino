@@ -4,9 +4,9 @@ const int mosfetGate = 3;
 const int firingInput = 2;
 
 //Timing (ms)
-const int delayMosfetToggle = 100;
+const int delayMosfetToggle = 10;
 const int delayIndicatorToggle = 100;
-const int firingCooldown = 1000;
+const int firingCooldown = 2000;
 
 bool canFire = false;
 
