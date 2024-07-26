@@ -13,7 +13,6 @@ bool canFire = false;
 void setup() {
   pinMode(firingIndicator, OUTPUT);
   pinMode(mosfetGate, OUTPUT);
-  pinMode(firingInput, INPUT);
 
   digitalWrite(firingIndicator, LOW);
   digitalWrite(mosfetGate, LOW);
@@ -25,7 +24,7 @@ void setup() {
 }
 
 void loop() {
-  if (digitalRead(firingInput) == HIGH && canFire){
+  if (canFire){
     Fire();
     canFire = false;
     delay(firingCooldown);
