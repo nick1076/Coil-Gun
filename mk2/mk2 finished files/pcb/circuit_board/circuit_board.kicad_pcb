@@ -596,7 +596,7 @@
 			(uuid "42201606-99ac-4729-a3d2-9b3d2b8705c8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 6.35 360)
+			(at 0 6.35 0)
 			(layer "F.Fab")
 			(uuid "62dad0a4-4bcf-46dc-82ea-182641db72f0")
 			(effects
@@ -1212,7 +1212,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
-			(at 0 -1.82 360)
+			(at 0 -1.82 0)
 			(layer "F.SilkS")
 			(uuid "fa3dab76-1a82-490a-9490-cd61f62ed2d2")
 			(effects
@@ -1223,7 +1223,7 @@
 			)
 		)
 		(property "Value" "10Ω"
-			(at 0 1.82 360)
+			(at 0 1.82 0)
 			(layer "F.Fab")
 			(uuid "b3174b7f-45b8-472f-bdad-630c3ed174c2")
 			(effects
@@ -1378,7 +1378,7 @@
 			(uuid "03c08009-ab30-4879-81cd-a45a3c345efe")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "063c7a4f-9679-4a21-a0af-f36ad7c2a871")
 			(effects
