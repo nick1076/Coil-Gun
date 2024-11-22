@@ -1,0 +1,45 @@
+Added Component: Designator=C?(FP-36DX-AB-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "160µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "82.6008mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "12.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "79mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "1000hours"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Chassis Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "2576022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "50%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "105g"; VariantName = "[No Variations]"
+Add Net: Net with name "NetR1_2" already exists
+Added Member To Class: ClassName=ControlBoard Member=Component C1 100uF
+Added Member To Class: ClassName=Sheet2 Member=Component C1 12061C104KAZ2A
+Added Member To Class: ClassName=Sheet2 Member=Component C2 12061C104KAZ2A
+Added Member To Class: ClassName=ControlBoard Member=Component C? 36DX161F450AB2A
+Added Member To Class: ClassName=ControlBoard Member=Component C? DCMC192T250AJ2B
+Added Member To Class: ClassName=ControlBoard Member=Component D1 1N4007
+Added Member To Class: ClassName=Sheet2 Member=Component D1 S1B-13-F
+Added Member To Class: ClassName=ControlBoard Member=Component J1 2 Terminal Block
+Added Member To Class: ClassName=Sheet2 Member=Component J1 1729128
+Added Member To Class: ClassName=ControlBoard Member=Component J2 DC Jack
+Added Member To Class: ClassName=Sheet2 Member=Component J2 PJ-002A
+Added Member To Class: ClassName=ControlBoard Member=Component J3 2 Terminal Block
+Added Member To Class: ClassName=Sheet2 Member=Component J3 1729128
+Added Member To Class: ClassName=Sheet2 Member=Component L1 744741472
+Added Member To Class: ClassName=ControlBoard Member=Component Q1 IRLZ44N
+Added Member To Class: ClassName=Sheet2 Member=Component Q1 IRLZ44NPbF
+Added Member To Class: ClassName=ControlBoard Member=Component R1 10O
+Added Member To Class: ClassName=Sheet2 Member=Component R1 CRCW12061K00JNEAHP
+Added Member To Class: ClassName=ControlBoard Member=Component R2 330O
+Added Member To Class: ClassName=Sheet2 Member=Component R2 3362P-1-104TLF
+Added Member To Class: ClassName=ControlBoard Member=Component U1 ATtiny1614
+Added Member To Class: ClassName=Sheet2 Member=Component U1 L7805CV
+Added Member To Class: ClassName=ControlBoard Member=Component U2 L7805
+Added Member To Class: ClassName=Sheet2 Member=Component U2 LM555CM/NOPB

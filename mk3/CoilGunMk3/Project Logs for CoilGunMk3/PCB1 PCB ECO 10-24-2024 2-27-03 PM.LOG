@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=GND New Net Name=Button -
+Change Net Name : Old Net Name=NetDS1_1 New Net Name=Ind_Digital
+Change Net Name : Old Net Name=NetDS2_1 New Net Name=Ind_9V
+Change Net Name : Old Net Name=NetP1_3 New Net Name=UPDI
+Change Net Name : Old Net Name=NetP2_1 New Net Name=Button +
+Added Rule: Name=Schematic Supply Nets_3

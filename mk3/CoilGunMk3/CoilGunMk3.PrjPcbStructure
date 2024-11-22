@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Blockout.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Blockout.SchDoc|FileName=CapacitorBank.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Blockout.SchDoc|FileName=ControlBoard.SchDoc|SheetNumber=1

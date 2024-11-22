@@ -1,0 +1,42 @@
+Added Component: Designator=U?(MODULE_ESP32-DEVKITC-32D)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC-32D/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "ESP32-DEVKITC-32D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC-32D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC-32D/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ESP32-DEVKITC-32D.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=Button - Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=Button - Pin=C2-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=Button - Pin=J1-1
+Added Pin To Net: NetName=9V Pin=J1-2
+Added Pin To Net: NetName=9V Pin=J2-1
+Added Pin To Net: NetName=Button - Pin=J2-2
+Added Pin To Net: NetName=NetD1_1 Pin=J3-1
+Added Pin To Net: NetName=Button - Pin=J3-2
+Added Pin To Net: NetName=9V Pin=L1-1
+Added Pin To Net: NetName=NetD1_2 Pin=L1-2
+Added Pin To Net: NetName=555OUT Pin=Q1-1
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-2
+Added Pin To Net: NetName=Button - Pin=Q1-3
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-1
+Added Pin To Net: NetName=9V Pin=U1-1
+Added Pin To Net: NetName=Button - Pin=U1-2
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Pin To Net: NetName=Button - Pin=U2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U2-2
+Added Pin To Net: NetName=555OUT Pin=U2-3
+Added Pin To Net: NetName=NetC1_1 Pin=U2-5
+Added Pin To Net: NetName=NetC2_1 Pin=U2-6
+Added Pin To Net: NetName=5V Pin=U2-8
+Add Net: Net with name "NetR1_2" already exists
+Added Member To Class: ClassName=ControlBoard Member=Component C? DCMC192T250AJ2B
+Added Member To Class: ClassName=ControlBoard Member=Component U? ESP32-DEVKITC-32D

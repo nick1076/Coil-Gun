@@ -1,0 +1,15 @@
+Change Component Comment : Designator=P1 Old Comment=22-28-4033 New Comment=3 Pin Header
+Change Component Comment : Designator=P2 Old Comment=22-28-4033 New Comment=3 Pin Header
+Change Component Comment : Designator=J1 Old Comment=1729128 New Comment=2 Terminal Block
+Change Component Comment : Designator=J3 Old Comment=1729128 New Comment=2 Terminal Block
+Change Component Comment : Designator=U1 Old Comment=ATTINY1614-SSFR New Comment=ATtiny1614
+Change Component Comment : Designator=SW1 Old Comment=FSM103 New Comment=Momentary
+Change Component Comment : Designator=Q1 Old Comment=IRLZ44NPbF New Comment=IRLZ44N
+Change Component Comment : Designator=U2 Old Comment=L7805CV New Comment=L7805
+Change Component Comment : Designator=J2 Old Comment=PJ-002A New Comment=DC Jack
+Change Component Comment : Designator=DS1 Old Comment=SML-LX1206YC-TR New Comment=LED
+Change Component Comment : Designator=DS2 Old Comment=SML-LX1206YC-TR New Comment=LED
+Change Component Comment : Designator=DS3 Old Comment=SML-LX1206YC-TR New Comment=LED
+Change Net Name : Old Net Name=NetDS3_1 New Net Name=Ind_5V
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=Coil - 2
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=MOSFET_GATE
